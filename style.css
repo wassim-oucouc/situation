@@ -1,0 +1,23 @@
+#first-text h2{
+    text-align: center;
+}
+
+
+#first{
+    display:flex;
+    justify-content: space-between;
+}
+
+#first button{
+    margin-right: 1px;
+}
+
+#all{
+    height: 95px;
+    /* width: 900px; */
+}
+
+#accor{
+    padding-top: 30px;
+}
+
